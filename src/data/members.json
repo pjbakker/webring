@@ -15,6 +15,11 @@
         "feed": "https://incoherency.co.uk/blog/rss.xml"
     },
     {
+        "title": "Brain Dump",
+        "url": "https://brain-dump.space/",
+        "feed": "https://brain-dump.space/index.xml"
+    },
+    {
         "title": "WhyNot.Fail",
         "url": "https://whynot.fail/",
         "feed": "https://whynot.fail/index.xml"
