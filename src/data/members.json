@@ -5,6 +5,11 @@
         "feed": "https://feeds.feedburner.com/stavrosstuff"
     },
     {
+        "title": "Brain Dump",
+        "url": "https://brain-dump.space/",
+        "feed": "https://brain-dump.space/index.xml"
+    },
+    {
         "title": "Jacques Mattheij",
         "url": "https://jacquesmattheij.com/",
         "feed": "https://jacquesmattheij.com/rss.xml"
@@ -14,6 +19,7 @@
         "url": "https://incoherency.co.uk/blog/",
         "feed": "https://incoherency.co.uk/blog/rss.xml"
     },
+
     {
         "title": "WhyNot.Fail",
         "url": "https://whynot.fail/",
